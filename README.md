@@ -1,2 +1,2 @@
 # NumericalAnalysis
-Assorted numerical analysis routines
+Assorted numerical analysis routines in Python
